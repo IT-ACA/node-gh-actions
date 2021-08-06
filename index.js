@@ -1,9 +1,9 @@
 const http = require('http');
-const port = process.env.PORT || 3005;
+const port = process.env.PORT || 3000;
 
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
-  const msg = 'Hello Node! Push success 2!!! \n'
+  const msg = 'Hello Node! Push success 3!!! \n'
   res.end(msg);
 });
 
