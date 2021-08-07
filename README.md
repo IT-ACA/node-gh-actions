@@ -1,9 +1,24 @@
-# Node Github Actions
+# vue-do-test
 
-Simple node.js app that serves "hello world"
+## Project setup
+```
+npm install
+```
 
-Great for testing simple deployments to the cloud
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## Run It
+### Compiles and minifies for production
+```
+npm run build
+```
 
-`npm start`
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
