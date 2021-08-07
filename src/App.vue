@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="https://lesateliers.ca/assets/logo-e5adf6300ea812351483c841782598be.png">
-    <HelloWorld msg="ACA wep portal running on Digital Ocean VPS"/>
+    <HelloWorld msg="ACA web portal running on Digital Ocean VPS"/>
   </div>
 </template>
 
