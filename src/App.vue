@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App running on Digital Ocean"/>
+    <img alt="Vue logo" src="https://lesateliers.ca/assets/logo-e5adf6300ea812351483c841782598be.png">
+    <HelloWorld msg="ACA wep portal running on Digital Ocean VPS"/>
   </div>
 </template>
 
@@ -24,5 +24,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+img {
+  width:350px
 }
 </style>
